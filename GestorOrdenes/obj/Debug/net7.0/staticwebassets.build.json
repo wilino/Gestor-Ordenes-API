@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "sDCNkeL6XEGc7aBfRp92QgaXiv7rWX1o6TBXmzGPH00=",
+  "Source": "GestorOrdenes.Api",
+  "BasePath": "_content/GestorOrdenes.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
