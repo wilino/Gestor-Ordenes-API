@@ -1,0 +1,12 @@
+/Users/willy-mac/Projects/GestorOrdenes/OrderManagement.Services/bin/Debug/net7.0/OrderManagement.Services.deps.json
+/Users/willy-mac/Projects/GestorOrdenes/OrderManagement.Services/bin/Debug/net7.0/OrderManagement.Services.dll
+/Users/willy-mac/Projects/GestorOrdenes/OrderManagement.Services/bin/Debug/net7.0/OrderManagement.Services.pdb
+/Users/willy-mac/Projects/GestorOrdenes/OrderManagement.Services/obj/Debug/net7.0/OrderManagement.Services.csproj.AssemblyReference.cache
+/Users/willy-mac/Projects/GestorOrdenes/OrderManagement.Services/obj/Debug/net7.0/OrderManagement.Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/willy-mac/Projects/GestorOrdenes/OrderManagement.Services/obj/Debug/net7.0/OrderManagement.Services.AssemblyInfoInputs.cache
+/Users/willy-mac/Projects/GestorOrdenes/OrderManagement.Services/obj/Debug/net7.0/OrderManagement.Services.AssemblyInfo.cs
+/Users/willy-mac/Projects/GestorOrdenes/OrderManagement.Services/obj/Debug/net7.0/OrderManagement.Services.csproj.CoreCompileInputs.cache
+/Users/willy-mac/Projects/GestorOrdenes/OrderManagement.Services/obj/Debug/net7.0/OrderManagement.Services.dll
+/Users/willy-mac/Projects/GestorOrdenes/OrderManagement.Services/obj/Debug/net7.0/refint/OrderManagement.Services.dll
+/Users/willy-mac/Projects/GestorOrdenes/OrderManagement.Services/obj/Debug/net7.0/OrderManagement.Services.pdb
+/Users/willy-mac/Projects/GestorOrdenes/OrderManagement.Services/obj/Debug/net7.0/ref/OrderManagement.Services.dll
