@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "kB+DNTa3FaJNb9adeiG/WCZhzJHbn++WHIUmrqYVg9Q+n9R2/Nm5neDj1k9jNbK7iK9QK7c/Z4YJ1WQiQTOGgg==",
+  "success": true,
+  "projectFilePath": "/Users/willy-mac/Projects/GestorOrdenes/GestorOrdenes.Dominio/GestorOrdenes.Dominio.csproj",
+  "expectedPackageFiles": [
+    "/Users/willy-mac/.nuget/packages/microsoft.entityframeworkcore/7.0.20/microsoft.entityframeworkcore.7.0.20.nupkg.sha512",
+    "/Users/willy-mac/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.20/microsoft.entityframeworkcore.abstractions.7.0.20.nupkg.sha512",
+    "/Users/willy-mac/.nuget/packages/microsoft.entityframeworkcore.analyzers/7.0.20/microsoft.entityframeworkcore.analyzers.7.0.20.nupkg.sha512",
+    "/Users/willy-mac/.nuget/packages/microsoft.entityframeworkcore.relational/7.0.20/microsoft.entityframeworkcore.relational.7.0.20.nupkg.sha512",
+    "/Users/willy-mac/.nuget/packages/microsoft.extensions.caching.abstractions/7.0.0/microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "/Users/willy-mac/.nuget/packages/microsoft.extensions.caching.memory/7.0.0/microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
+    "/Users/willy-mac/.nuget/packages/microsoft.extensions.configuration.abstractions/7.0.0/microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "/Users/willy-mac/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/Users/willy-mac/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/Users/willy-mac/.nuget/packages/microsoft.extensions.logging/7.0.0/microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "/Users/willy-mac/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.0/microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "/Users/willy-mac/.nuget/packages/microsoft.extensions.options/7.0.0/microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "/Users/willy-mac/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

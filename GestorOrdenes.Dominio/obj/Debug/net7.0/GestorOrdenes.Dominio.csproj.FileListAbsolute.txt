@@ -1,0 +1,12 @@
+/Users/willy-mac/Projects/GestorOrdenes/GestorOrdenes.Dominio/bin/Debug/net7.0/GestorOrdenes.Dominio.deps.json
+/Users/willy-mac/Projects/GestorOrdenes/GestorOrdenes.Dominio/bin/Debug/net7.0/GestorOrdenes.Dominio.dll
+/Users/willy-mac/Projects/GestorOrdenes/GestorOrdenes.Dominio/bin/Debug/net7.0/GestorOrdenes.Dominio.pdb
+/Users/willy-mac/Projects/GestorOrdenes/GestorOrdenes.Dominio/obj/Debug/net7.0/GestorOrdenes.Dominio.csproj.AssemblyReference.cache
+/Users/willy-mac/Projects/GestorOrdenes/GestorOrdenes.Dominio/obj/Debug/net7.0/GestorOrdenes.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+/Users/willy-mac/Projects/GestorOrdenes/GestorOrdenes.Dominio/obj/Debug/net7.0/GestorOrdenes.Dominio.AssemblyInfoInputs.cache
+/Users/willy-mac/Projects/GestorOrdenes/GestorOrdenes.Dominio/obj/Debug/net7.0/GestorOrdenes.Dominio.AssemblyInfo.cs
+/Users/willy-mac/Projects/GestorOrdenes/GestorOrdenes.Dominio/obj/Debug/net7.0/GestorOrdenes.Dominio.csproj.CoreCompileInputs.cache
+/Users/willy-mac/Projects/GestorOrdenes/GestorOrdenes.Dominio/obj/Debug/net7.0/GestorOrdenes.Dominio.dll
+/Users/willy-mac/Projects/GestorOrdenes/GestorOrdenes.Dominio/obj/Debug/net7.0/refint/GestorOrdenes.Dominio.dll
+/Users/willy-mac/Projects/GestorOrdenes/GestorOrdenes.Dominio/obj/Debug/net7.0/GestorOrdenes.Dominio.pdb
+/Users/willy-mac/Projects/GestorOrdenes/GestorOrdenes.Dominio/obj/Debug/net7.0/ref/GestorOrdenes.Dominio.dll
